@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi 👋 I'm Jonathan! </h1>
-<h3 align="center" href="https://etsmtl.ca/"> A software engineer student from ÉTS</h3>
+<h3 align="center"> A software engineer student from ÉTS</h3>
 
 <p align="center">
   <a href="mailto:jonathanlopez@hotmail.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,13 +16,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonoflope&show_icons=true&theme=dracula" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonoflope&theme=dracula&hide_border=true" width="400">
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoflope&layout=compact&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoflope&layout=compact&theme=dracula" />
 </p>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonoflope&theme=dracula&hide_border=true" width="400">
+</p>
 
 ---
 <p align="center">
