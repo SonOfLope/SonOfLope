@@ -16,7 +16,7 @@
 ---
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sonoflope&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoflope&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoflope&layout=compact&theme=dracula" width="400"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sonoflope&theme=dracula" width="400">
