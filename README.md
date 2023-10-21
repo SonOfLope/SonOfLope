@@ -14,12 +14,6 @@
 </p>
 
 ---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonoflope&show_icons=true&theme=dracula" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoflope&layout=compact&theme=dracula" />
@@ -27,6 +21,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sonoflope&theme=dracula&hide_border=true" width="400">
 </p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 ---
 <p align="center">
