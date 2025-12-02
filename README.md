@@ -1,47 +1,67 @@
-<h1 align="center">Jonathan Lopez</h1>
-<h3 align="center">Cloud-native consultant from Montreal, focused on DevOps, infrastructure, and open source.</h3>
+# Jonathan Lopez
+### Platform / Cloud Engineer · Montréal
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:jonathanlopez@hotmail.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-jonathan/)
+[![Discord](https://img.shields.io/badge/Discord-sonoflope-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/609019845173837825)
 
-<p align="center">
-  <a href="mailto:jonathanlopez@hotmail.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lopez-jonathan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/609019845173837825"><img alt="Jonathan Lopez | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sonoflope&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoflope&layout=compact&theme=dracula" width="285"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonoflope&theme=dracula" width="400">
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
-</p>
+Designing platforms for teams and running an over-engineered homelab on the side to break stuff first.
 
 ---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Go-%23276DC3.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <br>
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Azure-%232671E5.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZURE">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+### Selected Projects
+
+- **[Stolos](https://github.com/stolos-cloud/stolos)**  
+  _Building a platform layer on Kubernetes with real logic, because YAML can’t if/else._  
+
+---
+
+### Certs
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/JonathanLopez-4178/BC3746759349BADC?sharingId=220BFB8F12D14F9" target="_blank">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg"/><br>
+        <b>AZ-104</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/JonathanLopez-4178/8C44107C5E7D7183?sharingId=220BFB8F12D14F9" target="_blank">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg"/><br>
+        <b>AZ-204</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/JonathanLopez-4178/73AB6E93C6AC7B2C?sharingId=220BFB8F12D14F9" target="_blank">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg"/><br>
+        <b>AZ-400</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Stuff I Actually Use
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-FE4C1E?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
